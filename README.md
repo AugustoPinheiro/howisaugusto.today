@@ -1,4 +1,3 @@
----
 
 ## Goals
 
@@ -18,7 +17,6 @@
 - Works well for frequent flyers with mixed time zones
 - 100% fully open source, MIT licensed and self-hosted
 
----
 
 ### This repo contains
 
