@@ -12,7 +12,7 @@
 **Key decisions for this project:**
 
 - Use a single database, owned and hosted by me, with all the data I've collected over the years
-- Be able to [easily add and remove questions](https://github.com/KrauseFx/FxLifeSheet/blob/master/lifesheet.json) on the fly, as I learn what's beneficial to track
+- Be able to [easily add and remove questions]() on the fly, as I learn what's beneficial to track
 - Full control of how the data is visualized
 - Works well for frequent flyers with mixed time zones
 - 100% fully open source, MIT licensed and self-hosted
@@ -20,9 +20,9 @@
 
 ### This repo contains
 
-- The [Telegram bot](https://github.com/KrauseFx/FxLifeSheet/blob/master/worker.ts) for entering data manually
-- The [data visualization](https://github.com/KrauseFx/FxLifeSheet/tree/master/visual_playground), check out the results on [howisFelix.today](https://howisFelix.today)
-- The [database info](https://github.com/KrauseFx/FxLifeSheet/blob/master/db/create_tables.sql)
+- The [Telegram bot]() for entering data manually
+- The [data visualization](), check out the results on 
+- The [database info](hl)
 
 ---
 
